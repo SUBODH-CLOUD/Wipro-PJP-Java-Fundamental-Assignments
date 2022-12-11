@@ -1,2 +1,2 @@
 # Wipro-PJP_Exercises
-Wipro PJP Assignments
+Wipro PJP Assignments/Java Fundamental
